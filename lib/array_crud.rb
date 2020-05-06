@@ -7,7 +7,7 @@ def create_an_array
   ["bob", "sally", "steve", "grandma"]
 end
 
-def add_element_to_end_of_array(people, josh)
+def add_element_to_end_of_array(people, element)
   people.push("josh")
 end
 
