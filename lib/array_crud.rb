@@ -3,7 +3,6 @@ def create_an_empty_array
 end
 
 def create_an_array
-  people = create_an_array
   ["bob", "sally", "steve", "grandma"]
 end
 
